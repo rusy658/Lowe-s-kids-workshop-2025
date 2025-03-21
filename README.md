@@ -22,7 +22,7 @@ This project includes a web-based interface where parents can register their chi
 ## Author
 **Name:** Rusy  
 **Email:** james783allen@outlook.com  
-**Website:** [Lowe's Kids Workshop 2025](#)
+**Website:** [Lowe's kids workshop 2025](https://www.loweskidsworkshop.com)
 
 ## Getting Started
 Follow these steps to set up the project locally:
